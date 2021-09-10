@@ -14,7 +14,7 @@
   "author": "Philipp Mandler",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "9.4.6",
+    "@types/node": "14.17.15",
     "typescript": "2.9.2"
   },
   "dependencies": {
